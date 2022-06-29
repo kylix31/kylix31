@@ -12,6 +12,8 @@
   ![React](https://img.shields.io/badge/-React-blue?style=plastic&logo=react)
   ![NextJs](https://img.shields.io/badge/-NextJS-black?style=plastic&logo=Next.js)
   ![Gatsby](https://img.shields.io/badge/-Gatsby-purple?style=plastic&logo=gatsby)
+  ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=plastic&logo=flutter)
+  ![Dart](https://img.shields.io/badge/-Dart-blue?style=plastic&logo=Dart)
   ![Svelte](https://img.shields.io/badge/-Svelte-orange?style=plastic&logo=svelte)
   ![Angular](https://img.shields.io/badge/-Angular-red?style=plastic&logo=angular)
   ![Vue](https://img.shields.io/badge/-Vue-lightgreen?style=plastic&logo=Vue.js)
