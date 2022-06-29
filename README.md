@@ -7,6 +7,10 @@
 - :computer: Tools:
   ![VIM](https://img.shields.io/badge/-VIM-brightgreen?style=plastic&logo=vim)
   ![LINUX](https://img.shields.io/badge/-Arch-white?style=plastic&logo=Linux&logoColor=black)
+  ![Docker](https://img.shields.io/badge/-Docker-white?style=plastic&logo=docker)
+  ![Kubernets](https://img.shields.io/badge/-Kunernetes-white?style=plastic&logo=kubernetes)
+  ![AWS](https://img.shields.io/badge/-AWS-black?style=plastic&logo=amazonaws)
+  ![GCP](https://img.shields.io/badge/-GCP-white?style=plastic&logo=googlecloud)
 
 - :arrow_up: Frontend:
   ![React](https://img.shields.io/badge/-React-blue?style=plastic&logo=react)
