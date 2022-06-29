@@ -1,58 +1,36 @@
 ## Hi 👋, I'm Raul Luzetti!
 
-<a href="https://github.com/kylix31" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/raul-luzetti-2a28b8158" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
+[![Linkedin Badge](https://img.shields.io/badge/-raulluzetti-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raulluzetti/)](https://www.linkedin.com/in/raulluzetti/)
 
 <br/>
 
-## Languages and Tools
+- :computer: Tools:
+  ![VIM](https://img.shields.io/badge/-VIM-brightgreen?style=plastic&logo=vim)
+  ![LINUX](https://img.shields.io/badge/-Arch-white?style=plastic&logo=Linux&logoColor=black)
 
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gatsby.png" alt="Gatsby" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="25" />  
-</div>
+- :arrow_up: Frontend:
+  ![React](https://img.shields.io/badge/-React-blue?style=plastic&logo=react)
+  ![NextJs](https://img.shields.io/badge/-NextJS-black?style=plastic&logo=Next.js)
+  ![Gatsby](https://img.shields.io/badge/-Gatsby-purple?style=plastic&logo=gatsby)
+  ![Svelte](https://img.shields.io/badge/-Svelte-orange?style=plastic&logo=svelte)
+  ![Angular](https://img.shields.io/badge/-Angular-red?style=plastic&logo=angular)
+  ![Vue](https://img.shields.io/badge/-Vue-lightgreen?style=plastic&logo=Vue.js)
+
+- :arrow_down: Backend:
+  ![Python](https://img.shields.io/badge/-Python-ffff00?style=plastic&logo=python)
+  ![Go](https://img.shields.io/badge/-Go-blue?style=plastic&logo=go)
+  ![Rust](https://img.shields.io/badge/-Rust-black?style=plastic&logo=rust)
+  ![Node](https://img.shields.io/badge/-Node-green?style=plastic&logo=node.js&logoColor=white)
+
+- :file_folder: DB:
+  ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=plastic&logo=mysql&logoColor=white)
+  ![Mongo](https://img.shields.io/badge/-MongoDB-white?style=plastic&logo=mongodb)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=plastic&logo=postgresql&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/-Firebase-white?style=plastic&logo=firebase)
+  ![Redis](https://img.shields.io/badge/-Redis-red?style=plastic&logo=redis&logoColor=white)
+
+- :star: Other:
+  ![Scikit](https://img.shields.io/badge/-scikit--learn-black?style=plastic&logo=scikitlearn)
 
 <div align="center">
 
@@ -70,7 +48,3 @@
 ![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)
 
 </div>
-
----
-
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
