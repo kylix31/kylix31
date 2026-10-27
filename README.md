@@ -1,56 +1,48 @@
-## Hi 👋, I'm Raul Luzetti!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Raul%20Luzetti&fontSize=50&animation=twinkling&fontAlignY=38" alt="Raul Luzetti" width="100%">
+</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-raulluzetti-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raulluzetti/)](https://www.linkedin.com/in/raulluzetti/)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=Senior+Software+Engineer+%C2%B7+AI%2FML+%26+Full+Stack;LLM+agents+on+MCP+%C2%B7+Claude+Agent+SDK;Sign-language+AI+serving+on+Vertex+AI;Kubernetes+reliability+on+GCP+%26+AWS" alt="Senior Software Engineer, AI/ML and Full Stack. LLM agents on MCP with the Claude Agent SDK. Sign-language AI serving on Vertex AI. Kubernetes reliability on GCP and AWS.">
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,ts,kotlin,rails,react,nextjs,vue,nodejs,fastapi,tensorflow,gcp,aws,kubernetes,docker,terraform,postgres,mongodb,rabbitmq,grafana,githubactions&perline=10" alt="Python, TypeScript, Kotlin, Ruby on Rails, React, Next.js, Vue, Node.js, FastAPI, TensorFlow, Google Cloud, AWS, Kubernetes, Docker, Terraform, PostgreSQL, MongoDB, RabbitMQ, Grafana, GitHub Actions">
+</p>
 
-- :computer: Tools:
-  ![VIM](https://img.shields.io/badge/-VIM-brightgreen?style=plastic&logo=vim)
-  ![LINUX](https://img.shields.io/badge/-Arch-white?style=plastic&logo=Linux&logoColor=black)
-  ![Docker](https://img.shields.io/badge/-Docker-white?style=plastic&logo=docker)
-  ![Kubernets](https://img.shields.io/badge/-Kunernetes-white?style=plastic&logo=kubernetes)
-  ![AWS](https://img.shields.io/badge/-AWS-black?style=plastic&logo=amazonaws)
-  ![GCP](https://img.shields.io/badge/-GCP-white?style=plastic&logo=googlecloud)
+## Some things I've built in the last 5 years
 
-- :arrow_up: Frontend:
-  ![React](https://img.shields.io/badge/-React-blue?style=plastic&logo=react)
-  ![NextJs](https://img.shields.io/badge/-NextJS-black?style=plastic&logo=Next.js)
-  ![Gatsby](https://img.shields.io/badge/-Gatsby-purple?style=plastic&logo=gatsby)
-  ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=plastic&logo=flutter)
-  ![Dart](https://img.shields.io/badge/-Dart-blue?style=plastic&logo=Dart)
-  ![Svelte](https://img.shields.io/badge/-Svelte-orange?style=plastic&logo=svelte)
-  ![Angular](https://img.shields.io/badge/-Angular-red?style=plastic&logo=angular)
-  ![Vue](https://img.shields.io/badge/-Vue-lightgreen?style=plastic&logo=Vue.js)
+| Project | What it does | Proof | Stack |
+|---|---|---|---|
+| **CloudCan** | AI support analyst in Slack: reads logs, metrics, databases and code, then posts the diagnosis | **1,900+** investigations in 6 months | <img src="https://skillicons.dev/icons?i=py,aws,kubernetes,docker,terraform" alt="Python, AWS, Kubernetes, Docker, Terraform" height="28"> |
+| **Sign-language avatar** | Text in, an avatar signing it out, rendered live on a cloud GPU | **60 fps**, real time | <img src="https://skillicons.dev/icons?i=ts,nodejs,threejs,gcp,docker" alt="TypeScript, Node.js, Three.js, Google Cloud, Docker" height="28"> |
+| **NMT pipeline** | Community videos to a deployed translation model, fully automated | **3** sign languages | <img src="https://skillicons.dev/icons?i=py,tensorflow,gcp,githubactions" alt="Python, TensorFlow, Google Cloud, GitHub Actions" height="28"> |
+| **GLaDOS** | One API for sign recognition, translation and the avatar video | **348** commits, sole author | <img src="https://skillicons.dev/icons?i=py,fastapi,gcp,docker" alt="Python, FastAPI, Google Cloud, Docker" height="28"> |
+| **Mutano** | Marketing banners that build themselves with computer vision | Promo rollouts: **days** to **minutes** | <img src="https://skillicons.dev/icons?i=py,fastapi,opencv,mysql,redis" alt="Python, FastAPI, OpenCV, MySQL, Redis" height="28"> |
 
-- :arrow_down: Backend:
-  ![Python](https://img.shields.io/badge/-Python-ffff00?style=plastic&logo=python)
-  ![Go](https://img.shields.io/badge/-Go-blue?style=plastic&logo=go)
-  ![Rust](https://img.shields.io/badge/-Rust-black?style=plastic&logo=rust)
-  ![Node](https://img.shields.io/badge/-Node-green?style=plastic&logo=node.js&logoColor=white)
+<details>
+<summary>How the sign-language system fits together</summary>
 
-- :file_folder: DB:
-  ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=plastic&logo=mysql&logoColor=white)
-  ![Mongo](https://img.shields.io/badge/-MongoDB-white?style=plastic&logo=mongodb)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=plastic&logo=postgresql&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/-Firebase-white?style=plastic&logo=firebase)
-  ![Redis](https://img.shields.io/badge/-Redis-red?style=plastic&logo=redis&logoColor=white)
+```mermaid
+flowchart LR
+  V[Community videos] --> D[Training data<br/>Cloud Functions]
+  D --> TR[Training<br/>TensorFlow on GCE VMs]
+  TR --> N[NMT serving<br/>Vertex AI, autoscaling]
+  U[Apps] --> G[GLaDOS<br/>FastAPI on Cloud Run]
+  G --> R[Avatar video<br/>Three.js + FFmpeg<br/>Cloud Run GPU]
+  R -->|translate| N
+  R -->|gRPC stream| U
+  C[Camera<br/>MediaPipe + TF.js] --> G
+  G --> I[Sign recognition<br/>Vertex AI]
+```
 
-- :star: Other:
-  ![Scikit](https://img.shields.io/badge/-scikit--learn-black?style=plastic&logo=scikitlearn)
+</details>
 
-<div align="center">
+## Let's talk
 
-<!-- <br/> -->
-<!---->
-<!-- ![Snake animation](https://github.com/kylix31/kylix31/blob/output/github-contribution-grid-snake.svg) -->
-<!---->
-<br />
+<a href="https://www.linkedin.com/in/raulluzetti"><img src="https://img.shields.io/badge/LinkedIn-raulluzetti-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: raulluzetti"></a>
+<a href="mailto:raul.chiodi@gmail.com"><img src="https://img.shields.io/badge/Email-raul.chiodi%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: raul.chiodi@gmail.com"></a>
 
-![GitHub Snake Light](https://github.com/kylix31/kylix31/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](https://github.com/kylix31/kylix31/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
-<br />
-
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kylix31/kylix31/output/snake.svg" alt="A snake game eating Raul's contribution graph">
+</p>
